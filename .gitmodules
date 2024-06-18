@@ -1,0 +1,3 @@
+[submodule "module-b"]
+	path = module-b
+	url = git@github.com:platfrmrcarl/module-b.git
